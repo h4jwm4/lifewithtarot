@@ -2,7 +2,7 @@ Subject: Looking for a Project Opportunity – [Your Name] ([Your Emp ID])
 
 Hi [Manager's Name],
 
-I am [Your Name] (Emp ID: [Your Emp ID]), an unallocated fresher with skills in [Skill 1, Skill 2, Skill 3]. I am looking for a project opportunity and would be happy to contribute to your team if there is an opening.
+I am [Your Name] (Emp ID: [Your Emp ID]), an unallocated fresher with skills in JavaScript/TypeScript, React/Next.js/Nuxt.js, Node.js/Express, REST APIs, MongoDB/PostgreSQL and Python. I am looking for a project opportunity and would be happy to contribute to your team if there is an opening.
 
 My resume is attached. If there is no vacancy right now, I would appreciate it if you could keep my profile in mind or refer me to someone who may have one.
 
